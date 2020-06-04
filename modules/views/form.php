@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Pencarian Data Siswa</title>
+    <title>Pencarian Data</title>
     <meta charset="UTF-8">
     <title></title>
     <link rel="stylesheet" href="SCSS/main.css"/>
